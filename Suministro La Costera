@@ -1,21 +1,21 @@
-# 🚚 Suministro La Costera
+# 📦 Suministro La Costera - Distribuidor de Insumos y Papeleras
 
-Aplicación desarrollada en AppSheet para la gestión de productos, ventas, stock y pagos.
+Aplicación desarrollada en AppSheet para gestionar productos, ventas, stock y pagos en un distribuidor de insumos y papeleras.
 
 ## 📌 Descripción
-Esta app está diseñada para optimizar la administración de productos y ventas, controlando el stock y registrando pagos de forma eficiente. Gracias a AppSheet, se implementa rápidamente y con bajo costo, adaptándose a las necesidades de pequeñas y medianas empresas.
+Esta app facilita la administración de productos y ventas, el control de stock y el registro de pagos. Su implementación low-code en AppSheet la hace ideal para negocios dedicados a la venta de insumos y papeleras, con una rápida puesta en marcha y bajo costo de desarrollo.
 
 ## 🚀 Funcionalidades
 - Gestión de productos e inventario.
 - Registro de ventas y pagos.
-- Alertas de stock y reportes de ventas.
-- Integración con Google Sheets para análisis y respaldo.
+- Alertas de stock bajo.
+- Reportes de ventas y análisis de tendencias.
 
 ## 🎯 Beneficios
-- Implementación ágil y bajo costo.
-- Permite un seguimiento preciso de ventas y pagos.
-- Mejora la toma de decisiones estratégicas.
-- Accesible desde cualquier dispositivo.
+- Implementación rápida y sencilla.
+- Bajo costo de desarrollo y mantenimiento.
+- Permite un seguimiento detallado de ventas y pagos.
+- Optimiza la gestión comercial y financiera.
 
 ## 🛠️ Tecnologías
 - AppSheet
@@ -23,7 +23,7 @@ Esta app está diseñada para optimizar la administración de productos y ventas
 - Google Drive
 
 ## 🖼️ Screenshots
-
+*(Aquí se pueden añadir capturas de pantalla cuando las subas)*
 
 ## 📬 Contacto
-Si querés más detalles sobre esta app, contactame en [LinkedIn](https://www.linkedin.com/in/emmanuelalmada) o escribime a e.almada@nexpo.com.ar.
+Para más información, contactame en [LinkedIn](https://www.linkedin.com/in/emmanuelalmada) o escribime a e.almada@nexpo.com.ar.
