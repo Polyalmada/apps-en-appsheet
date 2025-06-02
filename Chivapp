@@ -1,14 +1,29 @@
-# Chivapp
+# 🐔 Chivapp - App para Productores Avícolas
 
-Aplicación en AppSheet para gestionar clientes, pedidos, pagos y gastos de forma eficiente. Ideal para generación de informes mensuales y control de facturación.
+Aplicación desarrollada en AppSheet para gestionar clientes, pedidos, pagos y gastos en una empresa avícola con más de 15 mil gallinas ponedoras.
 
-## Descripción
-App de bajo costo y rápida implementación para empresas de venta de productos.
+## 📌 Descripción
+Chivapp permite centralizar el registro de clientes, pedidos y pagos, así como el seguimiento de gastos y generación de informes mensuales. Es ideal para mejorar la facturación y el control financiero en empresas productoras de huevos. Su desarrollo low-code en AppSheet facilita una implementación rápida y económica.
 
-## Funcionalidades:
-- Registro de clientes y pedidos.
+## 🚀 Funcionalidades
+- Registro de clientes y pedidos de huevos.
 - Registro de pagos y gastos.
-- Generación de informes mensuales.
+- Generación de informes mensuales para el seguimiento financiero.
+- Integración con Google Sheets para respaldo y análisis.
 
-## Screenshots:
-*(Aquí van las imágenes cuando las subas)*
+## 🎯 Beneficios
+- Implementación rápida y sencilla.
+- Bajo costo de desarrollo y mantenimiento.
+- Mejora la organización y control de ventas en granjas avícolas.
+- Optimiza la gestión financiera y administrativa.
+
+## 🛠️ Tecnologías
+- AppSheet
+- Google Sheets
+- Google Drive
+
+## 🖼️ Screenshots
+
+
+## 📬 Contacto
+Para más información, contactame en [LinkedIn](https://www.linkedin.com/in/emmanuelalmada) o escribime a e.almada@nexpo.com.ar.
