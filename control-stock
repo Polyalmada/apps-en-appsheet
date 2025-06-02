@@ -1,31 +1,29 @@
-# App de Control de Stock
+# 📦 App de Control de Stock
 
-Aplicación en AppSheet para registrar entradas y salidas de stock, alertar por bajo stock y actualizar Google Sheets.
+Aplicación desarrollada en AppSheet para gestionar el inventario de insumos y productos de forma eficiente.
 
-## Descripción:
-Esta app fue desarrollada en AppSheet, una plataforma low-code que permite crear soluciones de forma rápida y sencilla. Gracias a su facilidad de uso, se implementa en pocos días y con bajos costos, adaptándose a las necesidades específicas de cada empresa.
+## 📌 Descripción
+Esta app permite llevar un control detallado de las entradas y salidas de stock, con notificaciones automáticas para alertar sobre niveles bajos de inventario. Gracias a su implementación low-code en AppSheet, es rápida de desplegar, fácil de usar y de bajo costo para las empresas.
 
-## Funcionalidades:
+## 🚀 Funcionalidades
 - Registro de entradas y salidas de productos.
-- Notificaciones automáticas de bajo stock.
-- Reportes en tiempo real y panel de control.
+- Notificaciones automáticas de stock bajo.
+- Dashboard de reportes en tiempo real.
+- Integración con Google Sheets para exportación y análisis de datos.
 
-## Beneficios:
-- Implementación rápida y fácil.
-- Bajo costo de desarrollo.
+## 🎯 Beneficios
+- Implementación rápida y sencilla.
+- Bajo costo de desarrollo y mantenimiento.
 - Adaptable a empresas de cualquier tamaño.
+- Permite tomar decisiones estratégicas basadas en datos.
 
-## Tecnologías:
+## 🛠️ Tecnologías
 - AppSheet
 - Google Sheets
-- Integración con Google Drive
+- Google Drive
 
-## Screenshots:
+## 🖼️ Screenshots
 
 
-## Casos de uso:
-- Control de stock en almacenes y depósitos.
-- Optimización de inventarios en pequeñas y medianas empresas.
-
-## Contacto:
-Para más información, podés contactarme en [LinkedIn](https://www.linkedin.com/in/emmanuelalmada).
+## 📬 Contacto
+Si querés más información sobre esta app, contactame en [LinkedIn](https://www.linkedin.com/in/emmanuelalmada) o escribime a e.almada@nexpo.com.ar.
