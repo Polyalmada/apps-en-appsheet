@@ -1,0 +1,12 @@
+# App de Control de Stock
+
+Descripción: Aplicación en AppSheet para registrar entradas y salidas de stock, alertar por bajo stock y actualizar Google Sheets.
+
+## Funcionalidades:
+- Registro de entradas y salidas.
+- Notificaciones de stock bajo.
+- Reportes en tiempo real.
+
+## Screenshots:
+
+
