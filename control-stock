@@ -1,12 +1,31 @@
 # App de Control de Stock
 
-Descripción: Aplicación en AppSheet para registrar entradas y salidas de stock, alertar por bajo stock y actualizar Google Sheets.
+Aplicación en AppSheet para registrar entradas y salidas de stock, alertar por bajo stock y actualizar Google Sheets.
+
+## Descripción:
+Esta app fue desarrollada en AppSheet, una plataforma low-code que permite crear soluciones de forma rápida y sencilla. Gracias a su facilidad de uso, se implementa en pocos días y con bajos costos, adaptándose a las necesidades específicas de cada empresa.
 
 ## Funcionalidades:
-- Registro de entradas y salidas.
-- Notificaciones de stock bajo.
-- Reportes en tiempo real.
+- Registro de entradas y salidas de productos.
+- Notificaciones automáticas de bajo stock.
+- Reportes en tiempo real y panel de control.
+
+## Beneficios:
+- Implementación rápida y fácil.
+- Bajo costo de desarrollo.
+- Adaptable a empresas de cualquier tamaño.
+
+## Tecnologías:
+- AppSheet
+- Google Sheets
+- Integración con Google Drive
 
 ## Screenshots:
 
 
+## Casos de uso:
+- Control de stock en almacenes y depósitos.
+- Optimización de inventarios en pequeñas y medianas empresas.
+
+## Contacto:
+Para más información, podés contactarme en [LinkedIn](https://www.linkedin.com/in/emmanuelalmada).
