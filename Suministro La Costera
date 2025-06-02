@@ -1,14 +1,29 @@
-# Suministro La Costera
+# 🚚 Suministro La Costera
 
-Aplicación en AppSheet para controlar productos, ventas, stock y registro de pagos.
+Aplicación desarrollada en AppSheet para la gestión de productos, ventas, stock y pagos.
 
-## Descripción
-Solución integral y adaptable a cualquier empresa de suministro y ventas. Bajo costo y rápida implementación.
+## 📌 Descripción
+Esta app está diseñada para optimizar la administración de productos y ventas, controlando el stock y registrando pagos de forma eficiente. Gracias a AppSheet, se implementa rápidamente y con bajo costo, adaptándose a las necesidades de pequeñas y medianas empresas.
 
-## Funcionalidades:
-- Control de productos y stock.
+## 🚀 Funcionalidades
+- Gestión de productos e inventario.
 - Registro de ventas y pagos.
-- Reportes y estadísticas.
+- Alertas de stock y reportes de ventas.
+- Integración con Google Sheets para análisis y respaldo.
 
-## Screenshots:
+## 🎯 Beneficios
+- Implementación ágil y bajo costo.
+- Permite un seguimiento preciso de ventas y pagos.
+- Mejora la toma de decisiones estratégicas.
+- Accesible desde cualquier dispositivo.
 
+## 🛠️ Tecnologías
+- AppSheet
+- Google Sheets
+- Google Drive
+
+## 🖼️ Screenshots
+
+
+## 📬 Contacto
+Si querés más detalles sobre esta app, contactame en [LinkedIn](https://www.linkedin.com/in/emmanuelalmada) o escribime a e.almada@nexpo.com.ar.
